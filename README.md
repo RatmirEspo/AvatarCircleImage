@@ -403,5 +403,5 @@ public class AvatarCircleImage extends ImageView {
 </RelativeLayout>
 ```
 ### And here's what happened
-<img src="media/screen_01.png" alt="Logo" style="width: 180px; margin-left: 180px;"/>
+<img src="media/screen_01.png" alt="Logo" style="width: 80px; margin-left: 180px;"/>
 
